@@ -1,0 +1,1 @@
+from SKDX.compression.speedup.compressor import ModelSpeedup

@@ -1,0 +1,1 @@
+from .custom_models import resnetv2_50x1_bitm_fix
